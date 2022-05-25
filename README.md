@@ -10,4 +10,6 @@ Files:
 
 3 - citibike_ridership_analysis.pptx - an analysis of the data with a view to finding potential incremental revenue
 
+4 - citibike_data_analysis.ipynb - jupyter notebook with further analysis of the citibike data.
+
 Please also take a look at this tableau workbook to see the top 10 most used stations in the Citibike network over the two year period examined. https://public.tableau.com/app/profile/matt.singleton/viz/citibike_ridership_analysis/Dashboard2
