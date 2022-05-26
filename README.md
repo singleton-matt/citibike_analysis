@@ -16,7 +16,7 @@ Files:
 
 3 - bike_station_table_creation.py - a python script used to upload the information about the bike stations
 
-4 - citibike_ridership_analysis.pptx - an analysis of the data with a view to finding potential incremental revenue
+4 - citibike_ridership_analysis.pptx and citibike_ridership_analysis.pdf - an analysis of the data with a view to finding potential incremental revenue. I have uploaded two different file formats for ease of access
 
 5 - citibike_data_analysis.ipynb - jupyter notebook with further analysis of the citibike data.
 
