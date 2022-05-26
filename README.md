@@ -14,8 +14,10 @@ Files:
 
 2 - upload_to_db.py - a python script used to upload the full dataset to a MySQL database
 
-3 - citibike_ridership_analysis.pptx - an analysis of the data with a view to finding potential incremental revenue
+3 - bike_station_table_creation.py - a python script used to upload the information about the bike stations
 
-4 - citibike_data_analysis.ipynb - jupyter notebook with further analysis of the citibike data.
+4 - citibike_ridership_analysis.pptx - an analysis of the data with a view to finding potential incremental revenue
+
+5 - citibike_data_analysis.ipynb - jupyter notebook with further analysis of the citibike data.
 
 Please also take a look at this tableau workbook to see the top 10 most used stations in the Citibike network over the two year period examined. https://public.tableau.com/app/profile/matt.singleton/viz/citibike_ridership_analysis/Dashboard2
