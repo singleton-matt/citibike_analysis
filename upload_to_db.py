@@ -36,7 +36,7 @@ for file in files_to_use:
     record_count = record_count+len(citibike_data)
     print(file,' ',len(citibike_data),' ',record_count)
     engine = create_engine("mysql://{user}:{pw}@localhost/{db}"  
-                        .format(user="root", pw="9jT5BYi@%t", 
+                        .format(user="root", pw=bbbbbbb, 
                         db="koho_assignment"))
 
     citibike_data.to_sql('citibike_tripdata_full', con=engine,if_exists='append',chunksize=1000,index=False)

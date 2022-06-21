@@ -55,7 +55,7 @@ for file in files_to_use:
     print(file,' ',len(end_stations),' ',record_count,' ',len(bike_stations))
 
 engine = create_engine("mysql://{user}:{pw}@localhost/{db}"  
-                    .format(user="root", pw="9jT5BYi@%t", 
+                    .format(user="root", pw=BBBBBBB, 
                     db="koho_assignment"))
 
 bike_stations.to_sql('citibike_stations', con=engine,if_exists='append',chunksize=1000,index=False)
